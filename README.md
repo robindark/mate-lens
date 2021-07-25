@@ -1,2 +1,2 @@
 # mate-lens
-Screengrabber for 
+Screengrabber for the matelight@c-base.org
